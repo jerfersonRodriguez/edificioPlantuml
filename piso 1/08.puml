@@ -1,0 +1,10 @@
+@startuml
+|Jugador|
+start
+:Elegir mision;
+|Sistema|
+:Validar nivel minimo;
+|Jugador|
+:Aceptar recompensa;
+stop
+@enduml

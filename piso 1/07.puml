@@ -1,0 +1,10 @@
+@startuml
+start
+:Elegir personaje;
+if (vida > 0?) then (si)
+  :Entrar a la Arena;
+else (no)
+  :Mostrar "Personaje caido";
+endif
+stop
+@enduml
