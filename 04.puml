@@ -1,7 +1,0 @@
-@startuml
-!theme cerulean
-skinparam classAttributeIconSize 0
-class Guerrero {
-  - fuerza : int
-}
-@enduml
